@@ -1,0 +1,45 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs
+.idea/
+.vscode/
+
+# Build
+build/
+bin/
+dist/
+.buildozer/
+buildozer-env/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Sistema
+.DS_Store
+Thumbs.db
+# Instaladores
+Python-3.12.0/
+Python-3.12.0.tgz
+commandlinetools-linux-11076708_latest.zip
+get-pip.py
+
+# Logs
+buildozer_log.txt
+
+# Backups
+*.save
+
+# Archivos de prueba
+test_kivy.py
