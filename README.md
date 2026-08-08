@@ -94,7 +94,7 @@ OasisFoodTruck/
 Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/OasisFoodTruck.git
+git clone https://github.com/CarinaCB/OasisFoodTruck.git
 ```
 
 Entrar al proyecto
